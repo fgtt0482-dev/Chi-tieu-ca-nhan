@@ -8,5 +8,6 @@ Dự án này được thực hiện để thực hành quy trình lưu trữ v�
 - GitHub: Nền tảng chính để lưu trữ hồ sơ năng lực (Portfolio) và chia sẻ dự án.
 
  3. Quy trình thực hiện
-- Thiết kế bảng dữ liệu trên Excel.     - Đưa dữ liệu lên kho lưu trữ trực tuyến (GitHub Repository).
+- Thiết kế bảng dữ liệu trên Excel.
+- Đưa dữ liệu lên kho lưu trữ trực tuyến (GitHub Repository).
 - Viết tài liệu hướng dẫn bằng ngôn ngữ Markdown (README).
